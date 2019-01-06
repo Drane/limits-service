@@ -15,3 +15,8 @@ Cache-Control: no-cache
 
 ###
 
+POST http://localhost:8080/actuator/bus-refresh
+Accept: */*
+Cache-Control: no-cache
+
+###
